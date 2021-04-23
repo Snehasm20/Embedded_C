@@ -1,1 +1,1 @@
-# Embeded_C
+# Embedded_C
