@@ -5,7 +5,7 @@
 
 |CppCheck                   |      Build                |                                      
 |--------                   |-------------------------- |
-|[![Cppcheck]([![Cppcheck](https://github.com/Snehasm20/Embedded_C/actions/workflows/code_quality.yml/badge.svg?branch=main)](https://github.com/Snehasm20/Embedded_C/actions/workflows/code_quality.yml)|[![Compile-Linux]([![Compile-Linux](https://github.com/Snehasm20/Embedded_C/actions/workflows/compile.yml/badge.svg?branch=main)](https://github.com/Snehasm20/Embedded_C/actions/workflows/compile.yml)|
+|[![Cppcheck](https://github.com/Snehasm20/Embedded_C/actions/workflows/code_quality.yml/badge.svg?branch=main)](https://github.com/Snehasm20/Embedded_C/actions/workflows/code_quality.yml)|[![Compile-Linux](https://github.com/Snehasm20/Embedded_C/actions/workflows/compile.yml/badge.svg?branch=main)](https://github.com/Snehasm20/Embedded_C/actions/workflows/compile.yml)|
 
 ### Activity 1
 
